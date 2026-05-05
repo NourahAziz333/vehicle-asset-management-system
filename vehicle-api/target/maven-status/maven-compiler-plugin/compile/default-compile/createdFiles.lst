@@ -1,0 +1,6 @@
+com\vehicleapi\repository\VehicleRepository.class
+com\vehicleapi\model\Vehicle.class
+com\vehicleapi\VehicleApiApplication$1.class
+com\vehicleapi\service\VehicleService.class
+com\vehicleapi\controller\VehicleController.class
+com\vehicleapi\VehicleApiApplication.class

@@ -1,0 +1,3 @@
+INSERT INTO vehicles VALUES ('veh_001','TRN-001','Van','Toyota','HiAce',2021,'KSA-2145','Active','Operations','Delivery van for daily routes.','2024-01-01T00:00:00Z','2024-01-01T00:00:00Z');
+INSERT INTO vehicles VALUES ('veh_002','TRN-002','Car','Hyundai','Elantra',2022,'KSA-8871','In Maintenance','Admin','Scheduled service this week.','2024-01-01T00:00:00Z','2024-01-01T00:00:00Z');
+INSERT INTO vehicles VALUES ('veh_003','TRN-003','Truck','Isuzu','N-Series',2020,'KSA-4509','Active','Warehouse','Used for warehouse transfers.','2024-01-01T00:00:00Z','2024-01-01T00:00:00Z');
